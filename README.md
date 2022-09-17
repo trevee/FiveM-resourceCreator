@@ -1,2 +1,2 @@
 # fivem-resource-creator
- A simple fivem resource creator coded in Batch.
+ A simple fivem resource creator created in Batch.
